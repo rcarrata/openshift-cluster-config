@@ -5,4 +5,5 @@ resources:
 #- htpass-auth.yaml
 #- rbac.yaml
 - container-security-operator.yaml
+- sealed-secrets.yaml
 #- pricelist-app.yaml
